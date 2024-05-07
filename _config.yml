@@ -1,1 +1,14 @@
+title: Jonathan Nöther
 
+logo: profilepic.png
+
+description: Safe and Secure Machine Learning
+
+show_downloads: true
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag
+
+email: s8jonoet@stud.uni-saarland.de
