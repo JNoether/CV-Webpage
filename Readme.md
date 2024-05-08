@@ -1,5 +1,5 @@
 # Jonathan Nöther
-I am a Data Science and Artificial Intelligence M.Sc. student at [Saarland University](https://www.uni-saarland.de/en/home.html) interested in secure and safe machine learning. I am currently employed as an research assistant at [Max-Planck Institute for Software Systems](https://www.mpi-sws.org/), where I study red-teaming and attacks of foundation models and LLMs. 
+I am a Data Science and Artificial Intelligence M.Sc. student at [Saarland University](https://www.uni-saarland.de/en/home.html) interested in secure and safe machine learning. I am currently employed as an research assistant in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/) at [Max-Planck Institute for Software Systems](https://www.mpi-sws.org/), where I study red-teaming and attacks of foundation models and LLMs. 
 
 ## Publications
 - **Text-Diffusion Red-Teaming of Large Language Models:
