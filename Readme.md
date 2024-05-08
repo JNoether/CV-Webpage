@@ -2,7 +2,7 @@
 
 
 # Jonathan Nöther
-I am a Data Science and Artificial Intelligence M.Sc. Student at Saarland University interested in secure and safe machine learning. I am currently employed as an research assistant at Max-Planck Institute for Software Systems, where I study red-teaming and attacks of foundation models and LLMs. 
+I am a Data Science and Artificial Intelligence M.Sc. student at [Saarland University](https://www.uni-saarland.de/en/home.html) interested in secure and safe machine learning. I am currently employed as an research assistant at [Max-Planck Institute for Software Systems](https://www.mpi-sws.org/), where I study red-teaming and attacks of foundation models and LLMs. 
 
 ## Publications
 - **Text-Diffusion Red-Teaming of Large Language Models:
@@ -17,23 +17,22 @@ With Mohammad Mohammadi, Debmalya Mandal, Adish Singla, Goran Radanovic
 *AAMAS 2023*
 
 ## Projects
-- **Interview Performance Prediction and Lie Detection**  
-Implementation of model that evaluated the performance and detected lies of
-a participant of mock-job interviews
 - **[Inpaiting Detection](https://github.com/HLCV-23/Inpainting-Detection)**  
 Combine automatic segmentation with inpainting to automatically create edited images.
 Additionally experimented with detecting these faked images.
 - **Safe Streets**  
 Extend pedestrian route recommendation by taking into account the safety of the route
 (e.g. lights, open shops).
-
+- **Interview Performance Prediction and Lie Detection**  
+Implementation of model that evaluated the performance and detected lies of
+a participant of mock-job interviews
 
 ## Experience
 - *08/2022-07/2024*: Research assistant in the Machine Teaching Group at MPI-SWS
 
 ## Teaching Experience
 - *Summer 2024*: Teaching Assistant for the Seminar "Trustworthiness of Foundation Models"
-- *Summer 2022*: Teaching Assistant for the Lecture "statistics Lab"
+- *Summer 2022*: Teaching Assistant for the Lecture "Statistics Lab"
 - *Summer 2022*: Teaching Assistant for the Lecture "Artificial Intelligence"
 - *Winter 2019/2020*: Teaching Assistant For "Programming 1"
 
