@@ -1,7 +1,7 @@
-<link rel="icon" type="image/png" href="/favicon.png"/>
-<link rel="icon" type="image/png" href="https://example.com/favicon.png"/>
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
-# Jonathan Nöther
+# <span style="color:800000">Jonathan Nöther</span>
+<hr style="height:0px;border-top:3px solid #f00;color:800000"/>
 I am a Data Science and Artificial Intelligence M.Sc. student at [Saarland University](https://www.uni-saarland.de/en/home.html) interested in secure and safe machine learning. I am currently employed as an research assistant in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/) at [Max-Planck Institute for Software Systems](https://www.mpi-sws.org/), where I study red-teaming and attacks of foundation models and LLMs. 
 
 ## Publications
